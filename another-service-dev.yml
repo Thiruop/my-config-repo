@@ -1,0 +1,3 @@
+another-service:
+  message: "Hello from Another Service - dev environment!"
+  featureToggle: true
